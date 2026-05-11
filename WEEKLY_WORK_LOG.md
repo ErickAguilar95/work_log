@@ -14,3 +14,6 @@
 - Removed API calls that are not necessary for the current user session, reducing server load and improving response times.
 - Flaps were implemented and request registration buttons were disabled from the back office
 - The implementation of a new information portal has begun
+
+## 📅 Week 18 — April 2026
+- Create a base for the new information portal, including the design and layout of the user interface.
