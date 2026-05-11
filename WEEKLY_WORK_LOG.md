@@ -15,5 +15,5 @@
 - Flaps were implemented and request registration buttons were disabled from the back office
 - The implementation of a new information portal has begun
 
-## 📅 Week 18 — April 2026
+## 📅 Week 20 — April 2026
 - Create a base for the new information portal, including the design and layout of the user interface.
